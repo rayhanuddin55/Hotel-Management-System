@@ -1,0 +1,17 @@
+c:\users\rayhan\documents\visual studio 2012\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+c:\users\rayhan\documents\visual studio 2012\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+c:\users\rayhan\documents\visual studio 2012\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+c:\users\rayhan\documents\visual studio 2012\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\rayhan\documents\visual studio 2012\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+c:\users\rayhan\documents\visual studio 2012\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.Cache
+c:\users\rayhan\documents\visual studio 2012\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+c:\users\rayhan\documents\visual studio 2012\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+c:\users\rayhan\documents\visual studio 2012\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.MDIParent.resources
+c:\users\rayhan\documents\visual studio 2012\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.ManageClient.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.manageReservation.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.ClientPayment.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.SatisfactionSurvey.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.clientsatisfaction.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.login.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.LogInRegistration.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.MDIParent1.resources
